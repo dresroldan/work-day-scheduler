@@ -8,7 +8,7 @@ When the user scrolls down then the user is presented with time-blocks for stand
 When the user views the time-blocks for that day then each time-block is color coded to indicate whether it is in the past, present, or future.<br> 
 When the user clicks into a time-block then the user can enter an event.<br> 
 When the user clicks the save button for that time-block then the text for that event is saved in local storage.<br> 
-When the user refreshes the page then the saved events persist.<br> 
+When the user refreshes the page then the saved events persists.<br> 
 
 
 ## Technologies
