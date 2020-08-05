@@ -21,3 +21,5 @@ When the user refreshes the page then the saved events persists.<br>
 ## Website
 
 https://dresroldan.github.io/work-day-scheduler/
+
+![](Screen Shot 2020-08-04 at 4.16.34 PM.png)
