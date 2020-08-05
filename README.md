@@ -22,4 +22,4 @@ When the user refreshes the page then the saved events persists.<br>
 
 https://dresroldan.github.io/work-day-scheduler/
 
-! [image of app] (Screen Shot 2020-08-04 at 4.16.34 PM.png)
+! [image of app](Screen Shot 2020-08-04 at 4.16.34 PM.png)
